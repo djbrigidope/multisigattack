@@ -1,0 +1,26 @@
+{
+  "name": "multisigattack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djbrigidope/multisigattack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djbrigidope/multisigattack/issues"
+  },
+  "homepage": "https://github.com/djbrigidope/multisigattack#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.4"
+  }
+}
